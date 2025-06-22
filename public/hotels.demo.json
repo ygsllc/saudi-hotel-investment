@@ -1,0 +1,90 @@
+[
+  {
+    "id": "hotel-1039283",
+    "title": "Hotel for sale leased for 10 years in Jeddah",
+    "city": "Jeddah",
+    "price": 30000000,
+    "currency": "SAR",
+    "aiScore": 72,
+    "irr": 8.2,
+    "stars": 4,
+    "hotelType": "Furnished Business Hotel",
+    "images": [
+      "https://bayut-sa-production.s3.eu-central-1.amazonaws.com/image/4445704/8c0c4bc254fa49219c24454cb24e8051"
+    ],
+    "lastUpdated": "2025-06-22T15:08:40.173213Z"
+  },
+  {
+    "id": "hotel-1060956",
+    "title": "Al Jouf Inn Hotel in Sakaka",
+    "city": "Sakaka",
+    "price": 32000000,
+    "currency": "SAR",
+    "aiScore": 74,
+    "irr": 8.5,
+    "stars": 4,
+    "hotelType": "Boutique Hotel",
+    "images": [
+      "https://bayut-sa-production.s3.eu-central-1.amazonaws.com/image/4605741/3d9f6114c0064723819dc244b103e65b"
+    ],
+    "lastUpdated": "2025-06-22T15:08:40.173225Z"
+  },
+  {
+    "id": "hotel-1039220",
+    "title": "Hotel for sale in Al Shatea (Jazan)",
+    "city": "Jazan",
+    "price": 3800000,
+    "currency": "SAR",
+    "aiScore": 65,
+    "irr": 7.9,
+    "stars": 3,
+    "hotelType": "Furnished Hotel",
+    "images": [
+      "https://bayut-sa-production.s3.eu-central-1.amazonaws.com/image/4444845/b37d283efaeb494b9e05458aeb5ae8e3"
+    ],
+    "lastUpdated": "2025-06-22T15:08:40.173245Z"
+  },
+  {
+    "id": "hotel-1017598",
+    "title": "Hotel for sale in Al Badei, Abha",
+    "city": "Abha",
+    "price": 7000000,
+    "currency": "SAR",
+    "aiScore": 68,
+    "irr": 8.0,
+    "stars": 3,
+    "hotelType": "Commercial Land Hotel",
+    "images": [],
+    "lastUpdated": "2025-06-22T15:08:40.173247Z"
+  },
+  {
+    "id": "hotel-1013704",
+    "title": "Hotel for sale in Khamis Mushait",
+    "city": "Khamis Mushait",
+    "price": 4800000,
+    "currency": "SAR",
+    "aiScore": 66,
+    "irr": 7.8,
+    "stars": 3,
+    "hotelType": "Commercial Land Hotel",
+    "images": [
+      "https://bayut-sa-production.s3.eu-central-1.amazonaws.com/image/4439293/fb871d16095e4c278a8d6fe4fcb2731e"
+    ],
+    "lastUpdated": "2025-06-22T15:08:40.173249Z"
+  },
+  {
+    "id": "hotel-1000624",
+    "title": "Hotel for sale in Al Rass, Qassim",
+    "city": "Al Rass",
+    "price": 7500000,
+    "currency": "SAR",
+    "aiScore": 69,
+    "irr": 8.1,
+    "stars": 3,
+    "hotelType": "Commercial Land Hotel",
+    "images": [
+      "https://bayut-sa-production.s3.eu-central-1.amazonaws.com/image/4599859/31444dfb2a9949b9a5b7c7ff38e20d5e"
+    ],
+    "lastUpdated": "2025-06-22T18:00:00Z"
+  }
+]
